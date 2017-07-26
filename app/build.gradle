@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
     defaultConfig {
-        applicationId "com.example.user.nassconevent"
+        applicationId "com.example.user.newsapp"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
@@ -24,11 +24,11 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile project(path: ':androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba')
-    compile 'com.android.support:appcompat-v7:25.3.1'
-    compile 'com.android.support:recyclerview-v7:25.3.1'
-    compile "com.squareup.picasso:picasso:2.4.0"
+    compile project(path: ':androidbaseframerepo-master-12345678')
+    compile 'com.android.support:appcompat-v7:25.3.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-
+    compile 'com.github.lzyzsd:circleprogress:1.2.1'
+    compile 'com.android.support:recyclerview-v7:25.3.0'
+    compile 'com.squareup.picasso:picasso:2.4.0'
     testCompile 'junit:junit:4.12'
 }
