@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/user/Desktop/NasscomProjectForGit/AndroidStudioProjects/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/user/Desktop/NasscomProjectForGit/AndroidStudioProjects/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/NassconEvent/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/NassconEvent/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/NassconEvent/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/user/Desktop/NasscomProjectForGit/AndroidStudioProjects/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/NassconEvent/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/user/Desktop/NasscomProjectForGit/AndroidStudioProjects/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/user/.android/build-cache/249741655caa3482470c56ebf9e0786c09e62c4b/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    }
+]
